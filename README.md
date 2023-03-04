@@ -1,3 +1,1 @@
-1
-1
-1
+https://blog.colonist.io/how-to-enable-webgl/
