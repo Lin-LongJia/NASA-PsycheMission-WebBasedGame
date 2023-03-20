@@ -1,6 +1,0 @@
-Build/NASA-PsycheWebGame.data.unityweb filter=lfs diff=lfs merge=lfs -text
-Build/NASA-PsycheWebGame.data.json filter=lfs diff=lfs merge=lfs -text
-Build/NASA-PsycheWebGame.wasm.code.unityweb filter=lfs diff=lfs merge=lfs -text
-Build/NASA-PsycheWebGame.wasm.framework.unityweb filter=lfs diff=lfs merge=lfs -text
-Build/UnityLoader.js filter=lfs diff=lfs merge=lfs -text
-index.html filter=lfs diff=lfs merge=lfs -text
